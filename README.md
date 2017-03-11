@@ -1,13 +1,10 @@
-
-**Women in Science Portland**
-
 👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼
 
-:sparkles: Welcome to Women in Science Portland! :sparkles:
+:sparkles: **Welcome to Women in Science Portland!** :sparkles:
 
 This GitHub Repo is our place to organize our website content and other parts of our projects that live online. 
 
-**Our Mission:** 
+:clipboard: **Our Mission:** :clipboard:
 
 The Women in Science Portland Organization provides professional and personal development opportunities to early career scientists and professionals, particularly students and post-docs, placing special emphasis on the support and growth of women in science. 
 These goals will be met through inspirational mentors, informative workshops, community outreach, networking opportunities, and other programming designed to promote healthy and productive environments for addressing issues related to the development and retention of women in science. 
