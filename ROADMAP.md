@@ -15,13 +15,27 @@ Timeline
 1. Develop Committee Descriptions [descriptions to be used for the board to vote to establish committees]
 ** a minimum of two board members are needed on each committee
 
--   Communications [Danielle]
+-   Communications [Danielle] :e-mail:
 
--   Education/Outreach [Ruth]
+-   Education/Outreach [Ruth] :books:
 
- -  Professional Developement [Trish]
+ -  Professional Developement [Trish] :arrow_up:
 
--   Fundraising [Daphne]
+-   Fundraising [Daphne] :credit_card:
+
+2. Define schedule for Evening Forum [link to google folder/doc for Evening Forum]
+
+3. Sign incorporation documents [coming from Perkins Coie] :black_nib:
+
+4. Sign 501c3 documents [coming from Perkins Coie]  :black_nib:
+
+5. Research CRMs [Allison & Jolanda] :microscope:
+
+ - Salesforce
+ 
+ - Donordrive
+ 
+ - Meeting w/ Chick Tech  :hatched_chick:
 
 
 **Coming Soon:** :date:
