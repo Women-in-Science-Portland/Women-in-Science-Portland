@@ -1,6 +1,6 @@
 👩🏾‍🏫 👩🏻‍⚕️ 👩🏿‍💻 👩🏽‍🚀 👩🏻‍🌾 👩🏼‍🔬 👩🏽‍💼
 
-:sparkles: **Welcome to Women in Science Portland!** :sparkles:
+:sparkles: [**Welcome to Women in Science Portland!**](http://wisportland.weebly.com/) :sparkles:
 
 This GitHub Repo is our place to organize our website content and other parts of our projects that live online. 
 
