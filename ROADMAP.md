@@ -12,7 +12,8 @@ Timeline
 
 **To do items** :clipboard:
 
-1. Develop Committee Descriptions [link to descriptions to be used for the board to vote to establish committees]
+1. Develop Committee Descriptions [descriptions to be used for the board to vote to establish committees]
+** a minimum of two board members are needed on each committee
 
 -   Communications [Danielle]
 
