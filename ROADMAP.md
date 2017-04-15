@@ -1,4 +1,4 @@
-This document will record out goals and can evolve over time. 
+This document will record our goals and can evolve over time. 
 
 
 **Current Projects:**
