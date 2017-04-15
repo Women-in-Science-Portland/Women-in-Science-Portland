@@ -18,7 +18,7 @@ Timeline
 
 -   Education/Outreach [Ruth]
 
- -  Professional Developement [Ruth]
+ -  Professional Developement [Trish]
 
 -   Fundraising [Daphne]
 
