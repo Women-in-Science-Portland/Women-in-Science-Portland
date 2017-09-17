@@ -11,32 +11,32 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 <h3>Expected Behavior</h3>
 The following behaviors are expected and requested of all community members:
-- Women in Science Portland provides unique professional experiences -- we are all here to learn from each other and expect participants to show up ready to engage.
-- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-- Exercise consideration and respect in your speech and actions.
-- Attempt collaboration before conflict.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential. We always want to know if something doesn't feel right, even if you're not 100% sure why.
-- Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
-- We respect confidentiality and sensitivity of personal stories and information.  You may be asked to keep personal stories confidential if you participate in certain groups or activities. 
+-Women in Science Portland provides unique professional experiences -- we are all here to learn from each other and expect participants to show up ready to engage.
+-Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+-Exercise consideration and respect in your speech and actions.
+-Attempt collaboration before conflict.
+-Refrain from demeaning, discriminatory, or harassing behavior and speech.
+-Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential. We always want to know if something doesn't feel right, even if you're not 100% sure why.
+-Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+-We respect confidentiality and sensitivity of personal stories and information.  You may be asked to keep personal stories confidential if you participate in certain groups or activities. 
 
 <h3>Unacceptable Behavior</h3>
 We do not tolerate harassment in any form. The following behaviors are considered harassment and are unacceptable within our community:
-- Violence, threats of violence, depictions of violence, or violent communication directed against another person or a group of people.
-- Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language.
-- Posting or displaying sexually explicit or violent material.
-- Posting or threatening to post other people’s personally identifying information ("doxing").
-- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-- Inappropriate photography or recording.
-- Inappropriate physical contact. You should have someone’s consent before touching them.
-- Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and sexual advances.
-- Deliberate intimidation, stalking or following (online or in person).
-- Advocating for, or encouraging, any of the above behavior.
-- Disruption of community events, including talks and presentations.
+-Violence, threats of violence, depictions of violence, or violent communication directed against another person or a group of people.
+-Sexist, racist, homophobic, transphobic, ableist, or otherwise discriminatory jokes and language.
+-Posting or displaying sexually explicit or violent material.
+-Posting or threatening to post other people’s personally identifying information ("doxing").
+-Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+-Inappropriate photography or recording.
+-Inappropriate physical contact. You should have someone’s consent before touching them.
+-Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and sexual advances.
+-Deliberate intimidation, stalking or following (online or in person).
+-Advocating for, or encouraging, any of the above behavior.
+-Disruption of community events, including talks and presentations.
 
 We respect and support each other as professionals.  In the interest of creating safe spaces for all, the following behaviors are considered unacceptable within our community:
-- Excessive intoxication (though we will call you a cab and make sure you get home safe)
-- Lack of respect for confidentiality and inappropriate sharing of sensitive information.
+-Excessive intoxication (though we will call you a cab and make sure you get home safe)
+-Lack of respect for confidentiality and inappropriate sharing of sensitive information.
 
 <h3>Consequences of Unacceptable Behavior<h3>
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
