@@ -11,8 +11,11 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 <h3>Expected Behavior</h3>
 The following behaviors are expected and requested of all community members:
+
 -Women in Science Portland provides unique professional experiences -- we are all here to learn from each other and expect participants to show up ready to engage.
+
 -Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+
 -Exercise consideration and respect in your speech and actions.
 -Attempt collaboration before conflict.
 -Refrain from demeaning, discriminatory, or harassing behavior and speech.
