@@ -59,7 +59,7 @@ We respect and support each other as professionals.  In the interest of creating
 
 -Lack of respect for confidentiality and inappropriate sharing of sensitive information.
 
-<h3>Consequences of Unacceptable Behavior<h3>
+<h3>Consequences of Unacceptable Behavior</h3>
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 **Anyone asked to stop unacceptable behavior is expected to comply immediately and without protest**.
 
